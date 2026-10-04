@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+  --color-tech-bg: #111214;
+  --color-tech-panel: #1a1b1e;
+  --color-tech-border: #2d2f34;
+  --color-tech-accent: #00d1ff;
+  --color-tech-accent-hover: #00b3db;
+  --color-tech-text-primary: #e1e1e6;
+  --color-tech-text-secondary: #8b8d98;
+  --font-mono: 'Courier New', Courier, monospace;
+}
+
+/* Custom grid background */
+.grid-bg {
+  background-color: #111214;
+  background-image: radial-gradient(#2d2f34 1px, transparent 1px);
+  background-size: 20px 20px;
+}

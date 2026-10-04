@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Transformer Truck Loading Optimizer",
+  "description": "Automatically generate optimized 2D truck loading plans for transformer accessories and components with real-time editing, drag-and-drop support, and professional PDF reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
